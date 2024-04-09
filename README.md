@@ -1,5 +1,5 @@
 - Hi, I’m @johnvzajac
 - I’m interested in audio technology and audio engineering
-- I’m currently learning music production and engineering at Berklee College of Music and studying coding through CS50 online
+- I’m currently learning music production and engineering at Berklee College of Music with a certificate from Harvard's CS50 course
 - I’m looking to collaborate on future projects involving coding for audio focused projects
 - How to reach me johnvzajac@gmail.com
